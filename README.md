@@ -1,5 +1,7 @@
 # swift-image-editing-component
 
+![](image-editing.gif)
+
 ## Description
 This is a sample project of an image editing component in swift that we created for our [medium blog post](https://medium.com/@mobile_44538/your-how-to-guide-for-implementing-image-cropping-and-rotating-in-ios-c0e3196cdf4e). Here you will find detailed insights into the implementation of the image editing component that we would like to share with you.
 
