@@ -6,7 +6,6 @@
 //
 
 import UIKit
-import Combine
 
 /// Shows the image and includes crop actions
 class ImageCropperView: UIView {
